@@ -12,10 +12,9 @@
 <a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
 <button >
 <br>
-<Button asChild disabled>
-<a href ="https://replit.com/@jpryqa" target ="_blank " alt ="">documents & 150projects</a>
-</button >
-<br>
+  - [deployments&150projects]
+ .(https://replit.com/@jpryqa).
+
 20+ Web Projects With Vanilla JavaScrip
 
 This is the main repository for all of the projects in the course.
