@@ -8,14 +8,12 @@
 <a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="">205 projects </a>
 </button >
 <br>
-  
-<a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
-  
-<br>
+  <a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
+  <br>
   <a
  href="https://replit.com/@jpryqa" target ="_blank " alt ="">documents and 150projects </a>
 
-20+ Web Projects With Vanilla JavaScrip
+-github 20+ Web Projects With Vanilla JavaScrip...
 
 This is the main repository for all of the projects in the course.
 
@@ -45,7 +43,7 @@ This is the main repository for all of the projects in the course.
 | 19  |       [Sortable List](https://github.com/bradtraversy/vanillawebprojects/tree/master/sortable-list)       | [Live Demo](https://vanillawebprojects.com/projects/sortable-list/)  |
 | 20  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) | [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+- github 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 This is the main repository for all of the projects in the course.
 
