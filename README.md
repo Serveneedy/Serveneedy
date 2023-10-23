@@ -5,13 +5,12 @@
 - 📫 How to reach me ...
 - 🔥 500  simple projects ..
 <Button asChild disabled>
-<a href ="https://curiousjr.com/profile/jpryqa">target ="_blank" alt ="">205 projects </a>
+<a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="">205 projects </a>
 </button >
 <br>
   <a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
   <br>
-  <a
- href="https://replit.com/@jpryqa" target ="_blank " alt ="">documents and 150projects </a>
+  <a  href="https://replit.com/@jpryqa" target ="_blank " alt ="">documents and 150projects </a>
 
 -github 20+ Web Projects With Vanilla JavaScrip...
 
