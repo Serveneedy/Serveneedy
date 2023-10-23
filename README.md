@@ -8,12 +8,12 @@
 <a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="">205 projects </a>
 </button >
 <br>
-<Button asChild disabled>
+  
 <a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
-<button >
+  
 <br>
-  - [deployments&150projects]
- .(https://replit.com/@jpryqa).
+  <a
+ href="https://replit.com/@jpryqa" target ="_blank " alt ="">documents and 150projects </a>
 
 20+ Web Projects With Vanilla JavaScrip
 
