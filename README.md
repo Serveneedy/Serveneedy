@@ -4,10 +4,17 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 < 205 simple projects ..
-
-<a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="">205 projects </a><br>
-<a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a><br>
+<Button asChild disabled>
+<a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="">205 projects </a>
+</button >
+<br>
+<Button asChild disabled>
+<a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects </a>
+<button >
+<br>
+<Button asChild disabled>
 <a href ="https://replit.com/@jpryqa" target ="_blank " alt ="">documents & 150projects</a>
+</button >
 <br>
 20+ Web Projects With Vanilla JavaScrip
 
